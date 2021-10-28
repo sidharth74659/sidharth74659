@@ -56,9 +56,10 @@
 
 <h3 align="left">Currently Learning: </h3>
 <p align="left">
+<li>Redis</li>
 <li>Next.js</li>
 <li>Testing</li>
-<li>Full Stack Projects with different stacks</li>
+<li>Github Actions</li>
 </p>
 
 <h3 align="left">Yet To Learn: </h3>
